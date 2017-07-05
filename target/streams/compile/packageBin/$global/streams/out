@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mPackaging D:\workspace\scala-download-file-from-url\target\scala-2.12\scala-download-file-from-url_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	hcl[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scala-download-file-from-url\target\scala-2.12\classes\hcl[0m
+[0m[[0mdebug[0m] [0m	hcl\DownloadFileFromUrl$.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scala-download-file-from-url\target\scala-2.12\classes\hcl\DownloadFileFromUrl$.class[0m
+[0m[[0mdebug[0m] [0m	hcl\DownloadFileFromUrl.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scala-download-file-from-url\target\scala-2.12\classes\hcl\DownloadFileFromUrl.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
