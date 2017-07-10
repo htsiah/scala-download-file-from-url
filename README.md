@@ -12,4 +12,7 @@ sbt "run http://www.google.com/word.doc folder1 "word.doc" http://10.1.1.1:8080 
 Reference
 =======================
 https://curl.haxx.se/
+
 http://alvinalexander.com/scala/scala-how-to-download-url-contents-to-string-file
+
+http://scalaoncloud.blogspot.my/2017/07/create-scala-project-using-sbt.html
