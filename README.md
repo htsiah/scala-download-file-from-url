@@ -14,5 +14,3 @@ Reference
 https://curl.haxx.se/
 
 http://alvinalexander.com/scala/scala-how-to-download-url-contents-to-string-file
-
-http://scalaoncloud.blogspot.my/2017/07/create-scala-project-using-sbt.html
